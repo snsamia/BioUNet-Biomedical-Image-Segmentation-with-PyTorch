@@ -25,6 +25,8 @@ This project presents a clean and modular implementation of the U-Net architectu
 
 ---
 
+---
+
 ## 🧬 Dataset Overview
 
 The dataset used in this project is derived from the **2012 ISBI Challenge** on segmentation of neuronal structures in electron microscopic stacks.
@@ -47,5 +49,6 @@ The dataset used in this project is derived from the **2012 ISBI Challenge** on 
   MICCAI, 2015.
 
 - ISBI 2012 EM Segmentation Challenge:  
-  [https://brainiac2.mit.edu/isbi_challenge/](https://brainiac2.mit.edu/isbi_challenge/)
+  [ISBI 2012 Segmentation Challenge](https://imagej.net/events/isbi-2012-segmentation-challenge)
+
 
